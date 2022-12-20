@@ -3,7 +3,7 @@
 <div> </div>
 <div align="right">
 <p><img alt="Posgrado" height="140px" src="https://www.iudigital.edu.co/OfertaEducativa/PublishingImages/Paginas/Especializacion-en-Programacion-Aplicada/BANER-especializacion-en-programacion-aplicada.png" align="right" hspace="10px" vspace="10px"></p></div>
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 # **SEMINARIO ESPECIALIZADO ESUMER**
 # **Inteligencia artificial aplicada a la Valoración Inmobiliaria**
