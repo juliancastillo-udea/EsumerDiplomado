@@ -1,17 +1,17 @@
 <div align="left">
-<p><img alt="IUDigital" height="140px" src="https://www.iudigital.edu.co/Style%20Library/images/logo-escudo.png" align="left" hspace="10px" vspace="0px"></p></div>
+<p><img alt="ESUMER" height="100px" src="https://raw.githubusercontent.com/juliancastillo-udea/EsumerDiplomado/main/Images/LogosimboloEsumer2.png" align="left" hspace="10px" vspace="0px"></p></div>
 <div> </div>
 <div align="right">
-<p><img alt="Posgrado" height="140px" src="https://www.iudigital.edu.co/OfertaEducativa/PublishingImages/Paginas/Especializacion-en-Programacion-Aplicada/BANER-especializacion-en-programacion-aplicada.png" align="right" hspace="10px" vspace="10px"></p></div>
+<p><img alt="Posgrado" height="100px" src="https://raw.githubusercontent.com/juliancastillo-udea/EsumerDiplomado/main/Images/Especializacion.png" align="right" hspace="10px" vspace="10px"></p></div>
 <br><br><br><br><br><br>
 
 # **SEMINARIO ESPECIALIZADO ESUMER**
 # **Inteligencia artificial aplicada a la Valoración Inmobiliaria**
 
-<img alt="CC" height="70px" src="https://creativecommons.org/images/deed/cc_blue_x2.png" align="left" hspace="0px" vspace="0px">
-<img alt="Attribution" height="70px" src="https://creativecommons.org/images/deed/attribution_icon_blue_x2.png" align="left" hspace="0px" vspace="0px">
-<img alt="NC" height="70px" src="https://creativecommons.org/images/deed/nc_blue_x2.png" align="left" hspace="0px" vspace="0px">
-<img alt="SA" height="70px" src="https://creativecommons.org/images/deed/sa_blue_x2.png" align="left" hspace="0px" vspace="0px"><br><br><br><br>
+<img alt="CC" height="50px" src="https://creativecommons.org/images/deed/cc_blue_x2.png" align="left" hspace="0px" vspace="0px">
+<img alt="Attribution" height="50px" src="https://creativecommons.org/images/deed/attribution_icon_blue_x2.png" align="left" hspace="0px" vspace="0px">
+<img alt="NC" height="50px" src="https://creativecommons.org/images/deed/nc_blue_x2.png" align="left" hspace="0px" vspace="0px">
+<img alt="SA" height="50px" src="https://creativecommons.org/images/deed/sa_blue_x2.png" align="left" hspace="0px" vspace="0px"><br><br><br><br>
 
 
 
