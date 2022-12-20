@@ -1,3 +1,10 @@
+<div align="left">
+<p><img alt="IUDigital" height="140px" src="https://www.iudigital.edu.co/Style%20Library/images/logo-escudo.png" align="left" hspace="10px" vspace="0px"></p></div>
+<div> </div>
+<div align="right">
+<p><img alt="Posgrado" height="140px" src="https://www.iudigital.edu.co/OfertaEducativa/PublishingImages/Paginas/Especializacion-en-Programacion-Aplicada/BANER-especializacion-en-programacion-aplicada.png" align="right" hspace="10px" vspace="10px"></p></div>
+<br><br><br><br>
+
 # **SEMINARIO ESPECIALIZADO ESUMER**
 # **Inteligencia artificial aplicada a la Valoración Inmobiliaria**
 
