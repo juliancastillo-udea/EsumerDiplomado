@@ -1,8 +1,8 @@
 <div align="left">
-<img alt="ESUMER" height="150px" src="https://raw.githubusercontent.com/juliancastillo-udea/EsumerDiplomado2022-1/main/Images/LogosimboloEsumer2.png" align="left" hspace="10px" vspace="0px"></div>
+<img alt="ESUMER" height="100px" src="https://raw.githubusercontent.com/juliancastillo-udea/EsumerDiplomado2022-1/main/Images/LogosimboloEsumer2.png" align="left" hspace="10px" vspace="0px"></div>
 
 <div align="right">
-<img alt="Posgrado" height="150px" src="https://raw.githubusercontent.com/juliancastillo-udea/EsumerDiplomado2022-1/main/Images/Especializacion.png" align="right" hspace="10px" vspace="10px"></div>
+<img alt="Posgrado" height="100px" src="https://raw.githubusercontent.com/juliancastillo-udea/EsumerDiplomado2022-1/main/Images/Especializacion.png" align="right" hspace="10px" vspace="10px"></div>
 <br><br><br><br><br><br><br><br>
 
 <hr size=10 noshade color="blue">
