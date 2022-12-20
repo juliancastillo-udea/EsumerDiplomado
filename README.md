@@ -42,4 +42,35 @@
 >>### *   Docente de RellenarAqui en posgrados de la Universidad de Antioquia
 >>### *   Docente de RellenarAqui en InsertarUniversidad
 
-## Docente: Julian Andres Castillo Grisales
+## Temario del Curso
+### Nivel 1 - PYTHON
+>*   Introducción a Python
+>*   Manejo de dataframes (bases de datos – tablas) usando Pandas
+>*   Gráficos en Python – Librerías
+>*   Análisis estadístico en Python – Librerías, estadística descriptiva y distribuciones
+
+Fechas: Enero 16, 17, 18 y 19
+Presencial: Lunes(16), Martes(17) y Miércoles (18)
+Sincrónico virtual: Jueves(19)
+
+### Nivel 2 - ANALISIS SECTORIAL Y APLICACIONES DEL MÉTODO DE MONTECARLO EN PYTHON
+>*   Método de Montecarlo para flujos de proyectos inmobiliarios usando Python
+>*   Análisis de sensibilidad
+
+Fechas: Enero 20, 23, 24 y 25
+Presencial: Lunes(23), Martes(24) y Miércoles (25)
+Sincrónico virtual: Viernes (20)
+
+### Nivel 3 - PREDICCIONES USANDO MACHINE LEARNING EN PYTHON
+>*   Introducción al machine learning: técnicas de aprendizaje supervisado y medidas de desempeño
+>*   Predicciones
+>*   Valoraciones 
+
+Fechas: Enero 26,27, 30, 31
+Presencial: Lunes(30), Martes(31) 
+Sincrónico virtual: Jueves(26) y Viernes (27)
+
+BOOTCAMP EMPRESARIAL
+Fechas: Viernes 3 de febrero de 2023 – Jueves 9 de febrero de 2023
+Sincrónico virtual
+
