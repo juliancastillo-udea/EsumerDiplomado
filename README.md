@@ -5,6 +5,8 @@
 <p><img alt="Posgrado" height="100px" src="https://raw.githubusercontent.com/juliancastillo-udea/EsumerDiplomado/main/Images/Especializacion.png" align="right" hspace="10px" vspace="10px"></p></div>
 <br><br><br><br><br><br>
 
+<hr size=10 noshade color="blue">
+
 # **SEMINARIO ESPECIALIZADO ESUMER**
 # **Inteligencia artificial aplicada a la Valoración Inmobiliaria**
 
@@ -12,6 +14,8 @@
 <img alt="Attribution" height="50px" src="https://creativecommons.org/images/deed/attribution_icon_blue_x2.png" align="left" hspace="0px" vspace="0px">
 <img alt="NC" height="50px" src="https://creativecommons.org/images/deed/nc_blue_x2.png" align="left" hspace="0px" vspace="0px">
 <img alt="SA" height="50px" src="https://creativecommons.org/images/deed/sa_blue_x2.png" align="left" hspace="0px" vspace="0px"><br><br><br><br>
+
+<hr size=10 noshade color="blue">
 
 ## Docente: Julian Andres Castillo Grisales
 >## Correo Electrónico:
@@ -41,6 +45,8 @@
 >>### *   Docente de RellenarAqui en ESUMER
 >>### *   Docente de RellenarAqui en posgrados de la Universidad de Antioquia
 >>### *   Docente de RellenarAqui en InsertarUniversidad
+
+<hr size=10 noshade color="blue">
 
 ## Temario del Curso
 ### Nivel 1 - PYTHON
