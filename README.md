@@ -26,6 +26,7 @@
 >>### *   Docente de programación, Simulación, Practicas profesionales y Analítica en Pregrado en la Universidad de Antioquia
 >>### *   Docente de Simulación Basada en Agentes en Posgrado en la Universidad de Antioquia
 >>### *   Docente Ocasional Tiempo Completo e Investigador en la Institución Universitaria Digital de Antioquia
+>>### *   Científico de Datos - Área Metropolitana del Valle de Aburrá - Observatorio Territorial Metropolitano (2021 - 2022)
 
 ## Docente: Juan Pablo Barrero Velez
 >## Correo Electrónico:
@@ -36,6 +37,7 @@
 >### *   Especialista en Análitica y Big Data
 >## Experiencia:
 >>### *   Coordinador de Conservación Catastral - Subscretaría de Catastro de Medellín (2013 - 2020)
+>>### *   Director de Investigación en Gesvalt Latam
 >>### *   Docente de RellenarAqui en ESUMER
 >>### *   Docente de RellenarAqui en posgrados de la Universidad de Antioquia
 >>### *   Docente de RellenarAqui en InsertarUniversidad
